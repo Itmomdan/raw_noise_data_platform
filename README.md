@@ -1,6 +1,9 @@
 # 🔊 교통 소음 분류 기능 및 경고 알림 서비스, 담았소 
 
-![image](https://github.com/user-attachments/assets/8b1cae0c-f7d9-4d9d-8e86-4d2036274026)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8b1cae0c-f7d9-4d9d-8e86-4d2036274026" width="700"/>
+</div>
+
 
 <br>
 
@@ -56,5 +59,19 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
+<br>
+
+## 시스템 아키텍처 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74cfb413-ef99-4446-95fa-9934dbb13bec" width="800"/>
+</div>
+
+<br>
 
 ## 주요 기능 
+
+
+## 주요 기능 
+
+
