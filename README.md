@@ -1,5 +1,9 @@
 # 🔊 교통 소음 분류 기능 및 경고 알림 서비스, 담았소 
 
+![image](https://github.com/user-attachments/assets/8b1cae0c-f7d9-4d9d-8e86-4d2036274026)
+
+> **멀티캠퍼스 데이터엔지니어**  <br/> **개발기간: 2025.01 ~ 2025.13**  <br/> **배포주소 : https://itmondan-noise-data-platform.streamlit.app/**
+
 ## 프로젝트 소개
 **담았소**는 도심 속 교통 소음을 감지하고, 무심한 듯 담백하게 사용자에게 위험을 알려주는 소음 감지 서비스입니다.
 
