@@ -1,0 +1,14 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+nohup.out
+
+
+.env
+
+# 설정 파일 제외
+config.py
+
+
+__pycache__/
